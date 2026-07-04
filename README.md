@@ -194,7 +194,3 @@ Ingeniero Mecatrónico con 5 años en telecomunicaciones, en transición hacia r
 ---
 
 *Dataset utilizado bajo los términos de uso de Kaggle.*
-
----
-
-*Dataset utilizado bajo los términos de uso de Kaggle.*
